@@ -1,0 +1,2 @@
+# pedro
+Pedro card game
